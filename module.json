@@ -1,0 +1,7 @@
+{
+    "disableAutoUpdate":true,
+    "name": "MG",
+    "options":{
+    	"reloadable":true
+    }
+}
